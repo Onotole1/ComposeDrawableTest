@@ -1,0 +1,3 @@
+rootProject.name='Compose Drawable Test'
+include ':app'
+include ':benchmark'

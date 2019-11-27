@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test">Benchmarks are standard instrumentation tests. To create a benchmark, use the BenchmarkRule class provided by the library.</string>
+</resources>
